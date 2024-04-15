@@ -3,5 +3,11 @@
     height: 500px;
     display: grid;
     border: 1px solid black;
-    
+
+}
+body {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
 }
